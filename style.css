@@ -64,6 +64,8 @@ h2 {
   text-align: center;
   max-width: 330px;
   border-radius: 20px;
+  -webkit-box-shadow: 2px 5px 31px 5px rgba(0, 0, 0, 0.44);
+  box-shadow: 2px 5px 31px 5px rgba(0, 0, 0, 0.44);
 }
 
 .container .card-img img {
